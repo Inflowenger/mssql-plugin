@@ -1,0 +1,8 @@
+# Platform identity — never committed.
+.env.inflow
+.env.inflow.*
+!.env.inflow.example
+
+# Build output
+/mssql-plugin
+/dist/
